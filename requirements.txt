@@ -1,0 +1,11 @@
+streamlit
+boto3
+google-generativeai
+phidata
+python-dotenv
+botocore
+s3transfer
+six
+markdown-it-py
+rich
+protobuf
